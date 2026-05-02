@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/finmind",
+      "destination": "https://api.finmindtrade.com/api/v4/data"
+    }
+  ]
+}
